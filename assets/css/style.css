@@ -1,0 +1,35 @@
+/* Custom */
+body {
+    display: flex;
+    background-color:#ffa000;
+    text-align: center;
+    flex-direction: column;
+    padding-top: 2%;
+
+}
+
+.round-25{
+    border-radius: 25px !important;
+}
+
+.round-50{
+    border-radius: 50px !important;
+}
+
+/* Welcome */
+#welcome{
+    margin: 6.5% auto;
+}
+
+#welcome >.card> .card-body{
+    padding: 12.5%;
+}
+
+
+/* Tes */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
